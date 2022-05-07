@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE video-game-sales[
+    
+    <!ELEMENT video-game-sales(game)>
+    <!ELEMENT game(rank, name, platform, year, genre,publisher, NA_sale, EU_sale, JP_sale, Other_sale)>
+
+    <!ELEMENT game (#PCDATA)>
+    <!ELEMENT rank (#PCDATA)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT platform (#PCDATA)>
+    <!ELEMENT year (#PCDATA)>
+    <!ELEMENT genre (#PCDATA)>
+    <!ELEMENT publisher (#PCDATA)>
+    <!ELEMENT NA_sale (#PCDATA)>
+    <!ELEMENT EU_sale (#PCDATA)>
+    <!ELEMENT JP_sale (#PCDATA)>
+    <!ELEMENT Other_sale (#PCDATA)>
+
+
+
+
+
+]>
+
+
+
+<video-game-sales>
+    <game>
+        <rank> 1 </rank>
+        <name> Wii Sports </name>
+        <platform> Wii </platform>
+        <year> 2006 </year>
+        <genre> Sports </genre>
+        <publisher> Nintendo </publisher>
+        <NA_sale> 41.49 </NA_sale>
+        <EU_sale> 29.2 </EU_sale>
+        <JP_sale> 3.77 </JP_sale>
+        <Other_sale> 8.46 </Other_sale>
+    </game>
+
+    <game>
+        <rank> 2</rank>
+        <name> Super Mario Bros.</name>
+        <platform> NES </platform>
+        <year> 1985 </year>
+        <genre> platform </genre>
+        <publisher> Nintendo </publisher>
+        <NA_sale> 29.02 </NA_sale>
+        <EU_sale> 3.58 </EU_sale>
+        <JP_sale> 6.81 </JP_sale>
+        <Other_sale> 0.77 </Other_sale>
+    </game>
+
+    <game>
+        <rank> 3</rank>
+        <name> Mario Kart </name>
+        <platform> Wii </platform>
+        <year> 2008 </year>
+        <genre> Racing </genre>
+        <publisher> Nintendo </publisher>
+        <NA_sale> 15.85 </NA_sale>
+        <EU_sale> 12.88 </EU_sale>
+        <JP_sale> 3.79 </JP_sale>
+        <Other_sale> 3.31 </Other_sale>
+    </game>
+
+    <game>
+        <rank> 4</rank>
+        <name> Wii Sports </name>
+        <platform> Wii </platform>
+        <year> 2009 </year>
+        <genre> Sports </genre>
+        <publisher> Nintendo </publisher>
+        <NA_sale> 15.75 </NA_sale>
+        <EU_sale> 11.01 </EU_sale>
+        <JP_sale> 3.28 </JP_sale>
+        <Other_sale> 2.96 </Other_sale>
+    </game>
+
+    <game>
+        <rank> 5</rank>
+        <name> Pokemon Red/Pokemon Blue</name>
+        <platform> GB </platform>
+        <year> 1996 </year>
+        <genre> Role Playing </genre>
+        <publisher> Nintendo </publisher>
+        <NA_sale> 11.27 </NA_sale>
+        <EU_sale> 8.89 </EU_sale>
+        <JP_sale> 10.22 </JP_sale>
+        <Other_sale> 1 </Other_sale>
+    </game>
+
+     <game>
+        <rank> 6</rank>
+        <name> Tetris </name>
+        <platform> GB </platform>
+        <year> 1989 </year>
+        <genre> Puzzle </genre>
+        <publisher> Nintendo </publisher>
+        <NA_sale> 23.2</NA_sale>
+        <EU_sale> 2.26 </EU_sale>
+        <JP_sale> 4.22 </JP_sale>
+        <Other_sale> 0.58 </Other_sale>
+    </game>
+
+    <game>
+        <rank> 7 </rank>
+        <name> New Super Mario Bros. </name>
+        <platform> DS </platform>
+        <year> 2006 </year>
+        <genre> Platform </genre>
+        <publisher> Nintendo </publisher>
+        <NA_sale> 11.38</NA_sale>
+        <EU_sale> 9.23 </EU_sale>
+        <JP_sale> 6.5 </JP_sale>
+        <Other_sale> 2.9 </Other_sale>
+    </game>
+
+    <game>
+        <rank> 8 </rank>
+        <name> Wii play </name>
+        <platform> Wii </platform>
+        <year> 2006 </year>
+        <genre> Misc </genre>
+        <publisher> Nintendo </publisher>
+        <NA_sale> 14.03 </NA_sale>
+        <EU_sale> 9.2 </EU_sale>
+        <JP_sale> 2.93 </JP_sale>
+        <Other_sale> 2.85 </Other_sale>
+    </game>
+
+    <game>
+        <rank> 9 </rank>
+        <name> New Super Mario Bros. Wii </name>
+        <platform> Wii </platform>
+        <year> 2009 </year>
+        <genre> Platform </genre>
+        <publisher> Nintendo </publisher>
+        <NA_sale> 14.59 </NA_sale>
+        <EU_sale> 7.06 </EU_sale>
+        <JP_sale> 4.7 </JP_sale>
+        <Other_sale> 2.26 </Other_sale>
+    </game>
+
+    <game>
+        <rank> 10 </rank>
+        <name> Duck Hunt </name>
+        <platform> NES </platform>
+        <year> 1984 </year>
+        <genre> Shooter </genre>
+        <publisher> Nintendo </publisher>
+        <NA_sale> 26.93 </NA_sale>
+        <EU_sale> 0.63 </EU_sale>
+        <JP_sale> 0.28 </JP_sale>
+        <Other_sale> 0.47 </Other_sale>
+    </game>
+
+
+  
+</video-game-sales
