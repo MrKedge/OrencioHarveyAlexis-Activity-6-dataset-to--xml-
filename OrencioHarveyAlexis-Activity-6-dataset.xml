@@ -5,7 +5,7 @@
     <!ELEMENT video-game-sales(game)>
     <!ELEMENT game(rank, name, platform, year, genre,publisher, NA_sale, EU_sale, JP_sale, Other_sale)>
 
-    <!ELEMENT game (#PCDATA)>
+
     <!ELEMENT rank (#PCDATA)>
     <!ELEMENT name (#PCDATA)>
     <!ELEMENT platform (#PCDATA)>
